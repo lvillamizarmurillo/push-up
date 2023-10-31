@@ -1,7 +1,5 @@
-let multiplicador = 37
-let multiplicando = 12
-//let multiplicador = parseInt(prompt('Ingrese multiplicador: '))
-// let multiplicando = parseInt(prompt('Ingrese multiplicando: '))
+let multiplicador = parseInt(prompt('Ingrese multiplicador: '))
+let multiplicando = parseInt(prompt('Ingrese multiplicando: '))
 let resultado = 0
 let prueba = 0
 while (multiplicador != 1) {

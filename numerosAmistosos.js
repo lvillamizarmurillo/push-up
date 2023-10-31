@@ -1,6 +1,8 @@
-let comienzo = 1000
-let comienzoExtra = comienzo
+//El ejercicio pide por defecto entre el rango 1000 y 1500
+//Pero puede cambiar el rango, jugando con las variables comienzo y final
+let comienzo = 1000 
 let final = 1500
+let comienzoExtra = comienzo
 let contador1 = 0
 let contador2 = 0
 let bandera = false
